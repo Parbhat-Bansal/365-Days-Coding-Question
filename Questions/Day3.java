@@ -1,3 +1,6 @@
+
+// Question Link ;- https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&sortBy=submissions
+
 class Solution {
   public:
     int majorityElement(vector<int>& arr) {
